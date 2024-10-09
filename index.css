@@ -1,9 +1,59 @@
 #logo{
     padding: 5px;
 }
+.dropdown a{
+    padding: 8px;
+}
 /* .nav-link{
     font-weight:bold;
 } */
 #posters{
+    width: 90%;
+    /* height: ; */
+    border-radius: 8px;
+}
+/* .stream-canvas{
+    position: relative;
+}
+.stream{
+    position: absolute;
+} */
+#stream{
+    width: 100%;
+    border-radius: 4px;
+
+}
+.live-events{
+    position: relative;
+}
+.events{
+    display: flex;
+}
+.events-posters{
+    position: absolute;
+}
+.card-img-top{
+    width: 100%;
+    border-radius: 3px;
+    /* height: 60%; */
+}
+.card{
+    width: auto;
+    margin: 5px;
+    border: none;
+}
+.premier{
+    background-color: rgba(43,49,73,255);
+    height: 800px;
+    position: relative;
+}
+.banner{
+    height: 80%;
     width: 100%;
 }
+.premier-card{
+    position: absolute;
+}
+/* .premier-caro{
+    position: relative;
+} */
