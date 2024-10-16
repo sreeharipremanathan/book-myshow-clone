@@ -44,7 +44,7 @@
 }
 .premier{
     background-color: rgba(43,49,73,255);
-    height: 800px;
+    height: 600px;
     position: relative;
 }
 .banner{
@@ -57,3 +57,47 @@
 /* .premier-caro{
     position: relative;
 } */
+ footer{
+    background-color: rgb(30, 30, 30);
+ }
+ #contact{
+    font-weight: bold;
+ }
+ .icon-box p{
+    color: white;
+ }
+ .head{
+    color: rgb(149, 149, 149);
+    font-size: 1vw;
+ }
+ .items a{
+    text-decoration: none;
+    color: rgb(149, 149, 149);
+ }
+ .items a:hover{
+    color: white;
+ }
+ .items{
+    color: rgb(149, 149, 149);;
+ }
+
+ /* arm */
+ .main{
+    position: relative;
+ }
+ .poster-card{
+    position: absolute;
+    top: 20%;
+    left:15%;
+ }
+ .img-box{
+    position: absolute;
+    background-color: black;
+ }
+ .img-box p{
+    text-align: center;
+    color: white;
+ }
+ #star{
+    color: red;
+ }
