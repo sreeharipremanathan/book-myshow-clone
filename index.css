@@ -101,3 +101,25 @@
  #star{
     color: red;
  }
+ .dtls{
+    position: absolute;
+    top: 30%;
+    left: 40%;
+ }
+ .title h3{
+    color: white;
+    font-size: 4vw;
+ }
+ .title p{
+    color: white;
+    font-size: 1vw;
+ }
+ .rating{
+    position: absolute;
+    /* background-color: rgb(38, 38, 38); */
+    width: 400px;
+    border-radius: 4px;
+ }
+ .ratenow{
+    position: absolute;
+ }
